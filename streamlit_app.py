@@ -48,7 +48,12 @@ st.markdown(" - AI-generated inventions.")
 st.image(Image.open("Image_5.jpg"))
 
 profile_pic = Image.open("Profile_pic.jpg")
-
+url1 = "https://github.com/r-sanjiv"
+url2 = "https://www.linkedin.com/in/sanjiv-r/"
 st.header("About Us")
 st.image(profile_pic, width=100, use_column_width=None, clamp=False, channels="RGB", caption = "SANJIV.R")
-st.markdown("AI Engineer and Quantam Meachine Learning Engineer")
+st.markdown("AI Engineer, Quantam Meachine Learning Engineer, Data Analyst, ML Front End and Back End Developer")
+st.markdown("Contact Us")
+st.markdonw("GitHub : "%url1)
+st.markdown("LinedIn : "%url2)
+
