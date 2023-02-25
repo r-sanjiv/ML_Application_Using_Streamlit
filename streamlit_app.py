@@ -26,7 +26,7 @@ st.markdown("Fine motor skills.")
 st.markdown("Natural language understanding.")
 st.markdown("Navigation.")
 st.header("What Is Super AI ?")
-st.markdown("Super AI is a form of AI that is capable of surpassing human intelligence by manifesting cognitive skills and developing thinking skills of its own.")\
+st.markdown("Super AI is a form of AI that is capable of surpassing human intelligence by manifesting cognitive skills and developing thinking skills of its own.")
 st.subheader("Example for Super AI")
 st.markdown("Development of large language models.")
 st.markdown("Advancements in multimodal AI.")
