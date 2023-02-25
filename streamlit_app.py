@@ -54,6 +54,6 @@ st.header("About Us")
 st.image(profile_pic, width=100, use_column_width=None, clamp=False, channels="RGB", caption = "SANJIV.R")
 st.markdown("AI Engineer, Quantam Meachine Learning Engineer, Data Analyst, ML Front End and Back End Developer")
 st.markdown("Contact Us")
-st.markdonw("GitHub : "%url1)
-st.markdown("LinedIn : "%url2)
+st.write("GitHub : ",url1)
+st.write("LinedIn : ",url2)
 
